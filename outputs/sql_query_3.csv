@@ -1,0 +1,4 @@
+customer_value_tier,customers,avg_predicted_churn_pct,avg_customer_value,avg_transaction_amount
+High,700,6.03,0.726,13789.08
+Medium,4655,7.69,0.402,4308.98
+Low,4772,25.1,0.169,3120.18

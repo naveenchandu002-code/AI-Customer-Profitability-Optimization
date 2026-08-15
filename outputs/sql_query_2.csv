@@ -1,0 +1,6 @@
+Recommended_Action,customers,avg_predicted_churn_pct,avg_customer_value
+ENGAGE,4524,12.04,0.285
+CROSS_SELL,3855,0.47,0.334
+DO NOTHING,1057,94.38,0.103
+UPSELL,653,0.54,0.731
+RETENTION,38,89.97,0.657
